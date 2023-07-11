@@ -7,7 +7,6 @@ import tempfile
 import os
 import meshlib.mrmeshpy as mr
 import meshlib.mrmeshnumpy as mrn
-import open3d as o3d
 from scipy.ndimage import label
 from mpl_toolkits import mplot3d
 from stl import mesh
