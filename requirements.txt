@@ -1,12 +1,13 @@
-streamlit==0.89.0
-SimpleITK==2.1.1
-numpy==1.21.0
-keras==2.4.3
-matplotlib==3.4.3
-meshlib==0.1.0
-scipy==1.7.0
-numpy-stl==2.16.0
-pyvista==0.32.1
+streamlit==latest
+SimpleITK==latest
+numpy==latest
+tensorflow==latest
+matplotlib==latest
+meshlib==latest
+scipy==latest
+numpy-stl==latest
+pyvista==latest
+
 
 
 
