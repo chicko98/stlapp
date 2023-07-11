@@ -86,7 +86,7 @@ def main():
         data = load_data(file)
         if st.button("Perform Segmentation"):
             model = unet_plusplus(input_size=data.shape)
-            model.load_weights('/Users/franciscopires/Downloads/best_model (1).h5')
+            model.load_weights('best_model (1).h5')
             test = model.predict(data)
             test = np.squeeze(test)
 
