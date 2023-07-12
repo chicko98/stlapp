@@ -7,7 +7,7 @@ meshlib==2.1.9
 scipy==1.11.1
 numpy-stl==3.0.1
 pyvista==0.40.1
-
+stpyvista==0.0.8
 
 
 
