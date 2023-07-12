@@ -1,7 +1,7 @@
 streamlit==1.24.1
 SimpleITK==2.2.1
 numpy==1.24.3
-tensorflow==2.11.0
+tensorflow==2.12.0
 matplotlib==3.7.2
 meshlib==2.1.9
 scipy==1.11.1
